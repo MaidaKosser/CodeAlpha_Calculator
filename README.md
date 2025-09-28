@@ -57,8 +57,10 @@ git clone https://github.com/MaidaKosser/CodeAlpha_Calculator.git
 cd Calculator
 ```
 5. Open the app in your browser:
-   
-▶ Usage
+
+---
+
+## ▶ Usage
 - Click number buttons to enter digits.
 
 - Use +, -, ×, ÷ to build expressions.
@@ -69,9 +71,11 @@ cd Calculator
 
 - Decimal point . supported for fractional numbers.
 
-- (If implemented) Use keyboard: digits, + - * /, Enter (=), Backspace, and ..
+- (If implemented) Use keyboard: digits, + - * /, Enter (=), Backspace.
 
-💡 Implementation Notes / Tips:
+---
+
+## 💡 Implementation Notes / Tips:
 - Use eval carefully — prefer a safe parser or sanitize input before evaluation.
 
 - Handle divide-by-zero cases gracefully (show Error or warning).
@@ -80,8 +84,13 @@ cd Calculator
 
 - Keep UI accessible: focus states on buttons and proper aria-labels for screen readers.
 
-#Live Demo: 
+---
 
-📫 Contact: 
+## Live Demo:
+https://drive.google.com/file/d/1sDzweqvXPENYNVa3AxWJYP1gQbRqKgaG/view?usp=sharing
+
+---
+
+## 📫 Contact: 
 - If you have questions or suggestions, open an issue or contact maidakosser@gmail.com
 
